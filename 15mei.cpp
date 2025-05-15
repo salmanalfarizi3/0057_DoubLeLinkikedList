@@ -12,7 +12,7 @@ public:
     Node* prev;
 };
 
-class DoubleLinkedList/
+class DoubleLinkedList
 {
 private:
     Node* START;
